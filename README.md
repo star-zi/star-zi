@@ -1,1 +1,1 @@
-<img src='https://i.ibb.co/6Nnb9Wr/starzi-banner-trans.png'>
+<img src='https://i.ibb.co/LQyLJ88/starzi-banner-trans.png'>

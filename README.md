@@ -1,1 +1,1 @@
-<img src='https://i.ibb.co/GtgyGKg/star-bg-alt.png'>
+<img src='star-bg.png'>
